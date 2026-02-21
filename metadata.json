@@ -1,0 +1,7 @@
+{
+  "name": "ChurchOS - Unified Ministry Platform",
+  "description": "A scalable all-in-one church operating system for community life, ministry coordination, and multi-branch administration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
